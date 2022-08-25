@@ -1,0 +1,63 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "login": "admin",
+      "password": "admin",
+      "contacts": [
+        {
+          "id": 1,
+          "name": "123",
+          "number": 123
+        },
+        {
+          "id": 3,
+          "name": "max",
+          "number": 34543
+        },
+        {
+          "id": 4,
+          "name": "alex",
+          "number": 1234
+        },
+        {
+          "id": 1661419932112,
+          "name": "test",
+          "number": 123
+        },
+        {
+          "id": 1661430773808,
+          "name": "12",
+          "number": 5555
+        }
+      ]
+    },
+    {
+      "contacts": [
+        {
+          "id": 1,
+          "name": "vlad",
+          "number": 123
+        },
+        {
+          "id": 3,
+          "name": "max",
+          "number": 34543
+        },
+        {
+          "id": 4,
+          "name": "alex",
+          "number": 1234
+        },
+        {
+          "id": 1661419932112,
+          "name": "test",
+          "number": 123
+        }
+      ],
+      "id": 3,
+      "login": "test",
+      "password": "test"
+    }
+  ]
+}

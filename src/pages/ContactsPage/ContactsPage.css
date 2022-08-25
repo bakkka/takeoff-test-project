@@ -1,0 +1,32 @@
+.main{
+    width: 500px;
+    margin: 0 auto;
+}
+.head{
+    display: flex;
+    align-items: center;
+}
+.title{
+    margin-left:20px;
+    text-align: center;
+}
+.buttons{
+    display: flex;
+    justify-content: space-between;
+}
+.new_User{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-left: 5px;
+}
+.search{
+    color:teal;
+    font-size:14px;
+    background: transparent;
+    border: 1px solid teal;
+    width: 97%;
+    margin-left: 5px;
+    height: 30px;
+    margin-top: 10px;
+}
